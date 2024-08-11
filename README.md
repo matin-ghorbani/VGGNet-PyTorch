@@ -63,3 +63,5 @@ You can choose which architecture to use by modifying the `arch` parameter in th
 ## Contributing
 
 Contributions are welcome! If you have any improvements, feel free to open a pull request.
+
+you can download my model from [here](https://drive.google.com/file/d/1GYVfsuu-_9Tff__AgpbtllTsSlXqPnFJ/view?usp=sharing)
